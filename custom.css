@@ -1,3 +1,6 @@
-body {
- background-color:#000; 
+.block-image--overlay .block-image__paragraph {
+    font-size: 8.2rem;
+    margin: 9rem 0;
+    padding-top: 3.5rem;
+    position: relative;
 }
